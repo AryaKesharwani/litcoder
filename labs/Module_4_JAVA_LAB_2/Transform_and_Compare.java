@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+// change the class name to Main
 public class Transform_and_Compare {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

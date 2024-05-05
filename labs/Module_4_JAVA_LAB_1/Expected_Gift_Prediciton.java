@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// change the class name to Main
 class Expected_Gift_Prediciton {
     public static String calculateGifts(int[] scores) {
         int n = scores.length;

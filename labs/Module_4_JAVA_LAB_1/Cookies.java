@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
+// change the class name to Main
 public class Cookies {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

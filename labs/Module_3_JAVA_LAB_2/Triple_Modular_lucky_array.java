@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// change the class name to Main
 class Triple_Modular_lucky_array {
     public static int tripleModularExponentiation(int[] arr) {
         int mod = 9;

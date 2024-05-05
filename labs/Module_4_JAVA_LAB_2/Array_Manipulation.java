@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// change the class name to Main
 public class Array_Manipulation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
