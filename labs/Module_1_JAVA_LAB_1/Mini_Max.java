@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+// change class to Main
 public class Mini_Max {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
