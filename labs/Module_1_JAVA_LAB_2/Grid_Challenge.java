@@ -1,6 +1,6 @@
 
 import java.util.*;
-
+// change the class name to Main
 public class Grid_Challenge {
 
     public static void main(String[] args) {
